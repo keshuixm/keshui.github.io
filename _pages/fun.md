@@ -4,7 +4,7 @@ title: ""
 permalink: /fun/
 author_profile: true
 ---
-[[Home](https://yaojieliu.github.io)]
+[[Home](https://keshuixm.xiangyuzhu.github.io)]
 
 <p align="left">
   <img src="https://yaojieliu.github.io/images/1612058387269.jpeg?raw=true" alt="Photo" style="width: 60%;"/>
