@@ -204,6 +204,184 @@ ___
 
 
 <br/>
+
+
+Conference Papers
+======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/pscc.jpeg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
+      Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR21face.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation,</strong><br/>
+      Zhiwei Liu*, Xiangyu Zhu*, Ming Tang, Zhen Lei, Jinqiao Wang. (co-first author)<br/>
+      ACM International Conference on Multimedia (MM), 2021.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/MM21multi.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>3D Context-Aware PIFu for Clothed Human Reconstruction,</strong><br/>
+      Tingting Liao, Xiangyu Zhu, Zhen Lei, and Stan Z. Li. (co-first author) <br/>
+      Chinese Conference on Biometrics Recognition (CCBR), 2021.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CCBR21face.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
+      Xiangyu Zhu, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
+      In European Conference on Computer Vision (ECCV), 2020.<br/>
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020beyond.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccv18.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Towards Fast, Accurate and Stable 3D Dense Face Alignment,</strong><br/>
+      Jianzhu Guo, Xiangyu Zhu, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li. (co-first author).<br/>
+      In European Conference on Computer Vision (ECCV), 2020. <br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020towards.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr18.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Domain Balancing: Face Recognition on Long-Tailed Domains,</strong><br/>
+      Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei (co-first author).<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. <br/>
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020domain.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_iccvw17.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Learning Meta Face Recognition in Unseen Domains,</strong><br/>
+      Jianzhu Guo, Xiangyu Zhu, Chenxu Zhao, Dong Cao, Zhen Lei, Stan Z. Li.<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020learning.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_ijcb17.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Deep spatial gradient and temporal depth learning for face anti-spoofing,</strong><br/>
+      Zezheng Wang, Zitong Yu, Chenxu Zhao, Xiangyu Zhu, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, Zhen Lei.<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/cvpr20deep.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccvw16.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Learning Meta Model for Zero-and Few-shot Face Anti-spoofing,</strong><br/>
+      Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, Tianyu Fu, Feng Zhou, Jingping Shi, Zhen Lei.<br/>
+      AAAI Conference on Artificial Intelligence (AAAI). 2020.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/aaai19learning.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_inpaint.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Semantic Alignment: Finding Semantically Consistent Ground-Truth for Facial Landmark Detection,</strong><br/>
+      Zhiwei Liu, Xiangyu Zhu, Guosheng Hu, Haiyun Guo, Ming Tang, Zhen Lei, Neil M. Robertson, Jinqiao Wang. (co-first author)<br/>
+      In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2019: 3467-3476.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2019semantic.pdf">Link</a>]
+    </p>
+  </div>
+</div>
+
+
+
+<br/>
 News
 ======
 * [2021/06/18] &nbsp; I'm interviewed by IEEE Biometrics Council Newsletter [[link](http://ieee-biometrics.org/images/pdf/Vol38-Newsletter.pdf)].
