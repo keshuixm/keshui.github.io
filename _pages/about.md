@@ -15,10 +15,18 @@ Work Experience
 
 Education
 ======
-2012～2017, Ph.D in National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academic of Sciences, supervised by Prof. Stan Z. Li.
-l  2008～2012, B.S in College of Computer Science, Sichuan University.
-I got my Ph.D. from the Department of Computer Science and Engineering at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to join [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/) and work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/) during my M.S. study. In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as an intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
-In 2020 summer, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
+2012～2017, Ph.D in National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academic of Sciences, supervised by Prof. Stan Z. Li. 
+2008～2012, B.S in College of Computer Science, Sichuan University. 
+
+Research Interest
+======
+My research interest includes machine learning and pattern recognition, especially face recognition, face alignment and 3D morphable model.
+
+Book Chapter
+======
+Countermeasures to face photo spoofing attacks by exploiting structure and texture information from rotated face sequences,
+Zhen Lei, Wang Tao, Xiangyu Zhu, Tianyu Fu.
+Mobile Biometrics, Guodong Guo; Harry Wechsler (Eds.). IET Digital Library. ISBN: 978-1-78561-095-0. 2017.
 
 News
 ======
