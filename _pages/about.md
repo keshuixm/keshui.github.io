@@ -40,7 +40,7 @@ Journal Papers
       <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
       Jianzhu Guo, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author)<br/>
       IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
-      [<a href="https://arxiv.org/pdf/2103.10596.pdf">PDF</a>]
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -54,11 +54,10 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
-      <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2020.<br/>
-      [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
-      [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
+      <strong>Out-of-Distribution Detection for Reliable Face Recognition,</strong><br/>
+      Chang Yu, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author).<br/>
+      IEEE Signal Processing Letters (SPL)，2020.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/spl20out.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -72,32 +71,14 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>On Disentangling Spoof Traces for Generic Face Anti-Spoofing</strong><br/>
-      <u>Yaojie Liu</u>, Joel Stehouwer, Xiaoming Liu<br/>
-      European Conference on Computer Vision (ECCV'20), 2020.<br/>
-      [<a href="https://arxiv.org/pdf/2007.09273.pdf">PDF</a>]
-      [<a href="https://github.com/yaojieliu/ECCV20-STDN">Code</a>]
+      <strong>Fast Adapting without Forgetting for Face Recognition,</strong><br/>
+      Hao Liu, Xiangyu Zhu, Zhen Lei, Dong Cao, Stan Z Li. <br/>
+      IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)，2020.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/tcsvt20fast.pdf">PDF</a>]
     </p>
   </div>
 </div>
 
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/cvpr20.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Generic Object Sensor and Spoof Noise Classification, Modeling, and Synthesis</strong><br/>
-      Joel Stehouwer, Amin Jourabloo, <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      Computer Vision and Pattern Recognition (CVPR'20), 2020.<br/>
-     [<a href="http://cvlab.cse.msu.edu/pdfs/stehouwer_jourabloo_liu_liu_cvpr2020.pdf">PDF</a>]
-     [<a href="http://cvlab.cse.msu.edu/goset-generic-object-dataset.html">Dataset</a>]
-    </p>
-  </div>
-</div>
 
 ___
 
@@ -108,10 +89,10 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Deep Tree Learning for Zero-shot Face Anti-Spoofing</strong><br/>
-      <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-      Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
-     [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
+      <strong>Prior-knowledge and attention based meta-learning for few-shot learning,</strong><br/>
+      Yunxiao Qin, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu Zhu, Jingping Shi, Guojun Qi, Zhen Lei. <br/>
+      Knowledge-Based Systems，2020.<br/>
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/kbs20prior.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -125,10 +106,10 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Face De-Spoofing: Anti-Spoofing via Noise Modeling</strong><br/>
-      <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
-      European Conference on Computer Vision (ECCV'18), 2018 <br/> 
-     [<a href="https://arxiv.org/abs/1807.09968">PDF</a>][<a href="https://yaojieliu.github.io/files/eccv18.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing">Code+Model</a>]
+      <strong>Large-scale Bisample Learning on ID versus Spot Face Recognition,</strong><br/>
+      Xiangyu Zhu, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
+      Special issue on Deep Learning for Face Analysis. International Journal of Computer Vision (IJCV)，2019. <br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
     </p>
   </div>
 </div>
@@ -142,10 +123,10 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision</strong><br/>
-      <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
-      Computer Vision and Pattern Recognition (CVPR'18), 2018.(<font color="red">exhibit @CVPR Demo</font>) <br/>
-     [<a href="https://arxiv.org/abs/1803.11097">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr18.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html">Dataset</a>][<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Demo</a>][<a href="https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics">News</a>]
+      <strong>Efficient Face Alignment with Fast Normalization and Contour Fitting Loss,</strong><br/>
+      Zhiwei Liu, Xiangyu Zhu, Ming Tang, Zhen Lei, Jinqiao Wang.<br/>
+      ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2019, 15: 89. <br/>
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/tomm19efficient.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -159,13 +140,14 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Dense Face Alignment</strong><br/>
-      <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
-      International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
-     [<a href="https://arxiv.org/abs/1709.01442">PDF</a>][<a href="https://yaojieliu.github.io//files/iccvw17.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment">Code</a>][<a href="https://youtu.be/GjwpvHKHf9U">Demo</a>]
+      <strong>Detecting face with densely connected face proposal network,</strong><br/>
+      Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Xiaobo Wang, Hailin Shi, Stan Z Li.<br/>
+      Neurocomputing, 2018, 284: 119-127.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/neuro18detecting.pdf">PDF</a>]
     </p>
   </div>
 </div>
+
 
 ___
 
@@ -176,13 +158,14 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Face Anti-Spoofing Using Patch and Depth-Based CNNs</strong><br/>
-      <u>Yaojie Liu*</u>, Yousef Atoum*, Amin Jourabloo*, Xiaoming Liu<br/>
-      International Joint Conference on Biometrics (IJCB'17), 2017<br/> 
-     [<a href="http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf">PDF</a>][<a href="https://yaojieliu.github.io/files/ijcb17.pdf">Poster</a>]
+      <strong>Face Alignment In Full Pose Range: A 3D Total Solution,</strong><br/>
+      Xiangyu Zhu, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
+      IEEE transactions on pattern analysis and machine intelligence (T-PAMI), 2017, 41(1): 78-92.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
     </p>
   </div>
 </div>
+
 
 ___
 
@@ -193,10 +176,10 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Fast and Precise Face Alignment and 3D Shape Reconstruction from a Single 2D Image</strong><br/>
-      Ruiqi Zhao, Yan Wang, C. Fabian Benitez-Quiroz, <u>Yaojie Liu</u>, Aleix M. Martinez<br/>
-      European Conference on Computer Vision Workshop (ECCVW'16), 2016<br/> 
-     [<a href="https://www.researchgate.net/publication/307513080_Fast_and_Precise_Face_Alignment_and_3D_Shape_Reconstruction_from_a_Single_2D_Image">PDF</a>]
+      <strong>Cross-Modality Face Recognition via Heterogeneous Joint Bayesian,</strong><br/>
+      Hailin Shi, Xiaobo Wang, Dong Yi, Zhen Lei, Xiangyu Zhu, Stan Z. Li.<br/>
+      IEEE Signal Processing Letters (SPL), 24(1): 81-85, 2017.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/hailin2017cross.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -218,22 +201,6 @@ ___
   </div>
 </div>
 
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization</strong><br/>
-      <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
-      Electronic Science and Technology, 2014<br/> 
-     [<a href="http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm">Link</a>]
-    </p>
-  </div>
-</div>
 
 
 <br/>
