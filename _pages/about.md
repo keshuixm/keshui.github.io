@@ -10,7 +10,7 @@ redirect_from:
 
 Work Experience
 ======
-2019～now, Associate Professor, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.
+2019～now, Associate Professor, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.    
 2017～2019, Assistant Professor, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.
 
 I got my Ph.D. from the Department of Computer Science and Engineering at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to join [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/) and work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/) during my M.S. study. In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as an intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
