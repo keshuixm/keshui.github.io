@@ -11,7 +11,7 @@ title                    : ""
 title_separator          : "Xiangyu Zhu"
 name                     : &name "Xiangyu Zhu"
 description              : &description "personal description"
-url                      : https://yaojieliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://keshuixm.github.io/xiangyuzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yaojie Liu 刘耀杰"
+  name             : "Xiangyu Zhu 朱翔昱"
   avatar           : "newface.jpg"
   bio              : "Research Scientist @ Google"
   location         : "Mountain View, CA"
