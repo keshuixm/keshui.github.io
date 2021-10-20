@@ -28,6 +28,28 @@ Book Chapter
 Zhen Lei, Wang Tao, Xiangyu Zhu, Tianyu Fu. 
 Mobile Biometrics, Guodong Guo; Harry Wechsler (Eds.). IET Digital Library. ISBN: 978-1-78561-095-0. 2017.
 
+<br/>
+
+<!--
+Journal Papers Highlights
+======
+<iframe src="https://www.youtube.com/embed/K5_VnSci9uE" 
+    width="200" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+<br/>
+
+<iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
+    width="400" 
+    height="225"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+<br/>
+--> 
 Journal Papers
 ======
 <div class="row">
