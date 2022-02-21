@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "test"
 title_separator          : "Xiangyu Zhu"
 name                     : &name "Xiangyu Zhu"
 description              : &description "personal description"
