@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "test"
+title                    : "Xiangyu Zhu / Associate Professor"
 title_separator          : "Xiangyu Zhu"
 name                     : &name "Xiangyu Zhu"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiangyu Zhu 朱翔昱"
-  avatar           : "newface.jpg"
+  name             : "Xiangyu Zhu"
+  avatar           : "bio-photo.jpg"
   bio              : "Associate Professor"
-  location         : "Beijing 100190, China"
-  employer         :
+  location         : "Beijing, China"
+  employer         : "NLPR, CASIA"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1rbNk5oAAAAJ"
-  email            :  "xiangyu.zhu@nlpr.ia.ac.cn"
+  email            : "xiangyu.zhu@nlpr.ia.ac.cn"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : 
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-4636-9677"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
